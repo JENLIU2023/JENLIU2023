@@ -9,11 +9,12 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=JENLIU2023
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JENLIU2023&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **JENLIU2023/JENLIU2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

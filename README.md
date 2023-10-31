@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Jen Liu
 
-#### I'm a new graduate from App Academy Open. Ready to embark on a new and exciting journey in the field of software development.
+#### I'm a recent graduate from App Academy Open. Ready to embark on a new and exciting journey in the field of software development.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 #### My GitHub Stats :
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=JENLIU2023 -->

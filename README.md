@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jen Liu
+### Hi there 👋 This is Jen Liu 2024 version
 
 #### I'm a recent graduate from App Academy Open. Ready to embark on a new and exciting journey in the field of software development.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

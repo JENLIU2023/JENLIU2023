@@ -1,4 +1,4 @@
-### Hello :sparkles: This is Jen Liu ver 2024.02 :sparkles:
+### Hello :sparkles: This is Jen Liu ver 2024.04 :sparkles:
 
 #### I'm a graduate from App Academy Open. Ready to embark on a new and exciting journey in the field of software development.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
